@@ -12,4 +12,5 @@
 ### how to run
 
  - docker-compose up -d (see the detail from docker-compose.yml)
+ - go run ./server/index.go
 
